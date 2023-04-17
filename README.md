@@ -7,11 +7,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohssen346&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohssen346)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=mohssen346&theme=tokyonight_duo&hide_border=true"
