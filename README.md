@@ -8,7 +8,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohssen346)
 
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ <p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=mohssen346&theme=tokyonight_duo&hide_border=true"
+</p>
 
 
 
