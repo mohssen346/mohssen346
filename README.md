@@ -17,8 +17,9 @@
 
 ![](https://raw.githubusercontent.com/mohssen346/mohssen346/138890a66e824f61f624feda211fd84eb35cc6a6/github-user-contribution.svg)
 
-  
- ![](https://komarev.com/ghpvc/?username=mohssen346&color=green)
+<div align="center">  
+  ![](https://komarev.com/ghpvc/?username=mohssen346&color=green)
+</div> 
 <!-- /posts -->
 
 
