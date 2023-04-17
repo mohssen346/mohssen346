@@ -7,7 +7,11 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohssen346&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohssen346)
 
+- uses: Platane/snk@v2
+  with:
+    github_user_name: ${{ github.mohssen346_mohssen346 }}
 
+      
  <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=mohssen346&theme=tokyonight_duo&hide_border=true"
 </p>
