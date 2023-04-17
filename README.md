@@ -17,7 +17,7 @@
 <p align="center">
 <img  src="https://komarev.com/ghpvc/?username=mohssen346&color=green&theme=tokyonight_duo&hide_border=true"
 </p>
-![](https://komarev.com/ghpvc/?username=mohssen346&color=green)
+
 
 <!-- /posts -->
 
